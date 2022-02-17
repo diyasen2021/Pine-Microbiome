@@ -1,1 +1,1 @@
-This repository contains microbiome data from Southern Kaingaroa.
+This repository contains microbiome data from pine needles.
